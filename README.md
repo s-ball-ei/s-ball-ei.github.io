@@ -1,7 +1,7 @@
-En travaux - Work In Progress
+# Maths au Haillan
 
-# Serge
-
-Ingénieur retraité, je propose du soutien scolaire à domicile.
-
-J'ai désormais 4 ans d'expérience auprès d'Acadomia, et j'interviens en mathématiques et informatique (SNT et NSI) niveau lycée.
+This is the home for "Maths au Haillan", a French *auto entreprise* for
+giving at home mathematics and computer science lessons to high school students.  
+  
+This page is only meant to present the project, the actual home page being
+`index.html`.
