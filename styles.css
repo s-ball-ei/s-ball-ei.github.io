@@ -1,6 +1,3 @@
-.title {
-    color: red;
-}
 #menu {
     display:flex;
     align-items: center;
@@ -29,12 +26,10 @@
 #right {
     flex-grow: 0;
     flex-shrink: 0;
-    /*display: flex;
-    justify-content: center;*/
     order: 2;
 }
 
-#main > div {
+ #main > div {
     margin: 10px;
 }
 
@@ -54,16 +49,24 @@
 }
 #bottom_content {
     border-block-start-style: solid;
-    width: 80%; 
+    width: 80%;
 }
 #bottom > * {
     text-align-last: center;
 }
 
-#main p {
+p {
     margin: .5em;
 }
 
 #content p {
     font-size: large;;
+}
+
+#FAQ dd {
+    margin-bottom: 5px;
+}
+
+dd > ol {
+    padding-left: 1em;
 }
